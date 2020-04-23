@@ -1,7 +1,7 @@
 .app-header {
-  /* background-image: url("https://i.imgur.com/HlmWDMU.jpg"); */
-  /* height: 350px; */
-  /* color: white; */
+  background-image: url("https://i.imgur.com/HlmWDMU.jpg"); 
+  height: 350px; 
+  color: white; 
   font-weight: bold;
 }
 
@@ -36,8 +36,8 @@
 
 .app-header .income {
   margin-top: 10px;
-  margin-bottom: 6px;
-  margin-right: 150px;
+  // margin-bottom: 6px;
+  // margin-right: 150px;
   background: linear-gradient(
     to bottom,
     #4ee728,
@@ -46,7 +46,7 @@
 }
 .app-header .expense {
   margin-top: 4px;
-  margin-left: 150px;
+  // margin-left: 150px;
   background: linear-gradient(
     to bottom,
     #e72848,
